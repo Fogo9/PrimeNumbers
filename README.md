@@ -1,22 +1,20 @@
 # **PRIME NUMBERS**
 
-# Information
+## INFORMATION
 
 * **Program to find prime numbers from 1 to 100.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **i**, **n**, **start** and **end** are defined with int.
 
 * Printing prime numbers with a for loop.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -65,13 +63,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/PrimeNumbers.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
