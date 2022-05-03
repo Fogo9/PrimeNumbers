@@ -8,7 +8,7 @@
 
 * **JAVA**
 
-## **CONTENTS**
+## CONTENTS
 
 * The variables **i**, **n**, **start** and **end** are defined with int.
 
