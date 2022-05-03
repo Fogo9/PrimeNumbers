@@ -4,7 +4,7 @@
 
 * **Program to find prime numbers from 1 to 100.**
 
-## **TECHNOLOGIES USED**
+## TECHNOLOGIES USED
 
 * **JAVA**
 
