@@ -14,7 +14,7 @@
 
 * Printing prime numbers with a for loop.
 
-## **CODES**
+## CODES
 
 ```Java
 
